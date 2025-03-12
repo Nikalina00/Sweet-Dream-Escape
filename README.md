@@ -10,7 +10,6 @@
 
 ## **Скриншоты**
 
-*(Добавьте сюда несколько скриншотов игрового процесса.)*
 ![photo_2025-03-12_17-29-55](https://github.com/user-attachments/assets/1e64576b-f9f5-49f9-863e-0aad74dfb37f)
 ![photo_2025-03-12_17-30-31](https://github.com/user-attachments/assets/f5920b0f-d820-41d7-b6dc-0159676f4769)
 ![photo_2025-03-12_17-30-21](https://github.com/user-attachments/assets/3b2a9b0e-8b40-45ef-b9e4-e4946d6c7548)
